@@ -1,0 +1,6 @@
+
+{
+  "name": "Loja Veloz - DevOps Engineering Portal",
+  "description": "Plataforma interna de gestão de infraestrutura, automação de deploys e monitoramento de microsserviços da Loja Veloz.",
+  "requestFramePermissions": []
+}
